@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Battle Golf",
+  "orientation": "landscape-primary",
+  "scope": "/",
+  "short_name": "Battle Golf",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.levinj11.battlegolf",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
